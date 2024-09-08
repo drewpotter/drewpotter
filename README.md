@@ -13,7 +13,7 @@ Physics grad 2.1; London, University of London, Royal Holloway.
 
 I’m currently working on [Quantum Sand](https://github.com/quantumsand/quantumsand) and also (a very satirical) [Physics Bioweapon](https://drewpotter.com/physics-bioweapon/) 🤣😂
 
-I prefer girls who don’t don't quite fit in...
+I prefer girls who don’t don’t quite fit in...
 
 ![Belle](Belle.png)
 
