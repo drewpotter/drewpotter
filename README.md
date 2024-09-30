@@ -15,7 +15,7 @@ I am currently detained at the “Nazi” Health Service Hollybank, Havant facil
 
 After the “Nazi” Health Service almost cracked my bottom rib whilst forcibly injecting me for a disease which they know I don’t have…
 
-And then writing up fictional medical records which are completely false.
+And then wrote up fictional medical records which are completely false.
 
 I decided I would release this (satirical) Physics Bioweapon for everyone under the AGPLv3.
 
