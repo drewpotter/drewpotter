@@ -19,7 +19,7 @@ And then wrote up fictional medical records which are completely false.
 
 I decided I would release this (satirical) Physics Bioweapon for everyone under the AGPLv3.
 
-Have fun!!! 
+Have fun!!! 🤣🤣
 
 I’m currently working on [Quantum Sand](https://github.com/quantumsand/quantumsand) and also a [Physics Bioweapon](https://github.com/clangordon/physics-bioweapon/)
 
