@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Scottish Clan Gordon DNA; Ancestors from Markinch.
+Scottish Clan Gordon DNA; Ancestors from Markinch. My Scottish grandfather was in the Royal Navy.
 
-English Military DNA; Royal Engineers, Royal Marines, Royal Horse Guards etc.
+English Military DNA; Royal Engineers, Royal Marines, Royal Horse Guards etc. My English grandfather was in the Royal Air Force.
 
 Physics grad 2.1; London, University of London, Royal Holloway.
 
