@@ -21,7 +21,7 @@ I decided I would release this (satirical) Physics Bioweapon for everyone under 
 
 Have fun!!! 🤣🤣
 
-I’m currently working on [Quantum Sand](https://github.com/quantumsand/quantumsand) and also a [Physics Bioweapon](https://github.com/clangordon/physics-bioweapon/)
+I’m currently working on [Quantum Sand](https://github.com/quantumsand/quantumsand) and also a [Physics Bioweapon](https://github.com/clangordon/physics-bioweapon/) and [Goth Boy avec Posh Blonde](https://drewpotter.com/goth-boy-avec-posh-blonde/)
 
 I prefer girls who don’t don’t quite fit in...
 
