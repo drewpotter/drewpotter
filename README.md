@@ -12,7 +12,7 @@ Physics grad 2.1; London, University of London, Royal Holloway.
 
 I am currently detained at the “Nazi” Health Service Hollybank, Havant facility despite having no actual diseases. I am being forcibly moved to Elmleigh Hospital, Havant. 
 
-Update: I am today 20241105 being moved to The Priory Hospital in Dorking and I do not know what to expect.
+Update: I am today 20241105 being moved to The Priory Hospital in Dorking and I do not know what to expect. I did some research and it looks like it is NHS funded.
 
 ![Clan Gordon](Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Ancestors](Military-DNA.png)
