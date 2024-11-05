@@ -10,7 +10,9 @@ English Military DNA; Royal Engineers, Royal Marines, Royal Horse Guards etc. My
 
 Physics grad 2.1; London, University of London, Royal Holloway.
 
-I am currently detained at the “Nazi” Health Service Hollybank, Havant facility despite having no actual diseases. I am being forcibly moved to Elmleigh Hospital, Havant.
+I am currently detained at the “Nazi” Health Service Hollybank, Havant facility despite having no actual diseases. I am being forcibly moved to Elmleigh Hospital, Havant. 
+
+Update: I am today 20241105 being moved to The Priory Hospital in Dorking and I do not know what to expect.
 
 ![Clan Gordon](Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Ancestors](Military-DNA.png)
