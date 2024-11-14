@@ -14,6 +14,8 @@ I am currently detained at the “Nazi” Health Service Hollybank, Havant facil
 
 Update: Today 20241105 I am being moved to The Priory Hospital in Dorking and I do not know what to expect. I did some research and it looks like it is NHS funded.
 
+Update: Today 20241114 I have been informed that I am moving back to Melbury Lodge, Winchester.
+
 ![Clan Gordon](Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Ancestors](Military-DNA.png)
 
