@@ -16,6 +16,8 @@ Update: Today 20241105 I am being moved to The Priory Hospital in Dorking and I 
 
 Update: Today 20241114 I have been informed that I am moving back to Melbury Lodge, Winchester.
 
+![Melbury Lodge](Melbury-Lodge-Winchester.png)
+
 ![Clan Gordon](Clan-Gordon-Wreaking-Havoc-Since-The-Middle-Ages.jpg)
 ![Ancestors](Military-DNA.png)
 
