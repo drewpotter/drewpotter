@@ -17,7 +17,7 @@ Update: Today 20241105 I am being moved to The Priory Hospital in Dorking and I 
 Update: Today 20241114 I have been informed that I am moving back to Melbury Lodge, Winchester.
 
 Earlier this year:
-* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months)
+* Dr Pippa North (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months, mocked me when I mentioned legal action due to my lack of money)
 * Dr Emma Vaccari (continual threats of forced injections; fictional accounts about me, inventing fictional diseases, confiscated my laptop and phone for over two months)
 
 * 20241114; I am hoping for the best at Melbury Lodge, Winchester.
