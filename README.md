@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦
+
 - 🔭 I’m currently working on Quantum Sand, an everything app and educational art-game-storytelling app.
 - 🌱 I’m currently learning Ruby and Rust.
 - 🤲 Interfaith collaboration is a planned feature for Quantum Sand.
