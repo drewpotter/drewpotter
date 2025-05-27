@@ -20,4 +20,6 @@ The result of this thought process is now an app that is nearing completion for 
 
 [![Quantum Sand video](https://img.youtube.com/vi/lsGfLNKV8t4/0.jpg)](https://www.youtube.com/watch?v=lsGfLNKV8t4)
 
+[![Quantum Sand video](https://img.youtube.com/vi/YpqyFqB13g0/0.jpg)](https://www.youtube.com/watch?v=YpqyFqB13g0)
+
 These videos only capture part of the overall functionality within Quantum Sand.
