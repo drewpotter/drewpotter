@@ -3,7 +3,7 @@
 🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦
 
 - 🔭 I’m currently working on Quantum Sand, an everything app and educational art-game-storytelling app.
-- 🌱 I’m currently learning Ruby and Rust.
+- 🌱 I’m currently learning Ruby, Rust and PyTorch.
 - 🤲 Interfaith collaboration is a planned feature for Quantum Sand.
 - 👯 I’m looking to collaborate on Quantum Sand.
 - 🤔 I’m looking for help with building a community around Quantum Sand.
