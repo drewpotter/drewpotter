@@ -18,6 +18,8 @@ The result of this thought process is now an app that is nearing completion for 
 
 ## Video clip of Quantum Sand
 
+[![Quantum Sand video](https://img.youtube.com/vi/8nM9mLc6RTU/0.jpg)](https://www.youtube.com/watch?v=8nM9mLc6RTU)
+
 [![Quantum Sand video](https://img.youtube.com/vi/quEPOkTBCWU/0.jpg)](https://www.youtube.com/watch?v=quEPOkTBCWU)
 
 [![Quantum Sand video](https://img.youtube.com/vi/hljiBX9HST0/0.jpg)](https://www.youtube.com/watch?v=hljiBX9HST0)
