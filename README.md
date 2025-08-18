@@ -26,6 +26,8 @@ The result of this thought process is now an app that is nearing completion for 
 
 * [Mathematics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0005.mathematics/0001.introduction-to-mathematics.md)
 
+* [Cybersecurity](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0006.cybersecurity/0001.introduction-to-cybersecurity.md)
+
 ## Video clip of Quantum Sand
 
 [![Quantum Sand video](https://img.youtube.com/vi/8nM9mLc6RTU/0.jpg)](https://www.youtube.com/watch?v=8nM9mLc6RTU)
