@@ -28,6 +28,8 @@ The result of this thought process is now an app that is nearing completion for 
 
 * [Cybersecurity](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0006.cybersecurity/0001.introduction-to-cybersecurity.md)
 
+* [Semiconductors](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0007.semiconductors/0001.introduction-to-semiconductors.md)
+
 ## Video clip of Quantum Sand
 
 [![Quantum Sand video](https://img.youtube.com/vi/8nM9mLc6RTU/0.jpg)](https://www.youtube.com/watch?v=8nM9mLc6RTU)
