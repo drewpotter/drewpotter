@@ -32,6 +32,8 @@ The result of this thought process is now an app that is nearing completion for 
 
 * [Biophysics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0008.biophysics/0001.introduction-to-biophysics.md)
 
+* [Biochemistry](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0009.biochemistry/0001.introduction-to-biochemistry.md)
+
 ## Video clip of Quantum Sand
 
 [![Quantum Sand video](https://img.youtube.com/vi/8nM9mLc6RTU/0.jpg)](https://www.youtube.com/watch?v=8nM9mLc6RTU)
